@@ -7,4 +7,5 @@ setup(name='kroman',
       author_email='yeannylam@gmail.com',
       license='MIT',
       packages=['kroman'],
-      zip_safe=False)
+      zip_safe=False,
+      url='https://github.com/cheunghy/kroman-py')
