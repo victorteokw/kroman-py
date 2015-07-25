@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='kroman',
-      version='1.0',
+      version='1.1',
       description='Kroman is Korean romanization tool.',
       author='Zhang Kai Yu',
       author_email='yeannylam@gmail.com',

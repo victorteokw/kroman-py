@@ -1,5 +1,4 @@
-import sys
-import math
+import sys, math
 
 head_jamos = [
     'g',
